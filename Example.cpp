@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdio.h>
-#include "..\..\..\headers\polynomial_functions.h"
+#include "polynomial_functions.h"
 using namespace std;
 
 
